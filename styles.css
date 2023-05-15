@@ -1,3 +1,44 @@
 body{
-    background-color: grey;
+    background: grey;
+    margin: 0;
+}
+header{
+    background: white;
+    padding: 2px;
+}
+div.titulo h1{
+    margin-left: 75px;
+}
+div.post{
+    background-color: rgb(245, 245, 252);
+    display: flex;
+    width: 600px;
+    margin-top: 5px;
+}
+div.principal{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    margin-top: 5px;
+}
+div.tpost{
+    display: flex;
+    width: 600px;
+}
+div.principal img{
+    width: 100%;
+}
+h2{
+    margin: 0;
+    border: 20px;
+    padding-right: 100px;
+    padding-left: 10px;
+}
+span{
+    margin-top: 5px;
+    padding-left: 325px;
+    padding-right: 10px;
+}
+img{
+    position: center;
 }
